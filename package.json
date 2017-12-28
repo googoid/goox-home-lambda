@@ -1,0 +1,22 @@
+{
+  "name": "goox-home-skill",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "dpl"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.24"
+  },
+  "files_to_deploy": [
+    "package.json",
+    "index.js",
+    "lib/"
+  ],
+  "devDependencies": {
+    "dpl": "^3.8.0",
+    "env2": "^2.2.0"
+  },
+  "repository": "https://github.com/googoid/goox-home-lambda.git"
+}
