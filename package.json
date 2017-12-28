@@ -18,5 +18,5 @@
     "dpl": "^3.8.0",
     "env2": "^2.2.0"
   },
-  "repository": "https://github.com/googoid/goox-home-lambda.git"
+  "repository": { "url": "https://github.com/googoid/goox-home-lambda.git" }
 }
